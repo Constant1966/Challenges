@@ -93,34 +93,19 @@ else:
 '''
 
 # Challenge 045
+'''
 total = 0
 while total <= 50:
     num = int(input("Enter a number: "))
     total = total + num
     print("The total is ....", total)
-
-
-
-
-
-
-
-
-
+'''
 
 # Challenge 046
-
-
-
-
-
-
-
-
-
-
-
-
+num = 0
+while num <= 5:
+    num = int(input("Enter a number: "))
+print("The last number you entered was a", num)
 
 # Challenge 047
 
